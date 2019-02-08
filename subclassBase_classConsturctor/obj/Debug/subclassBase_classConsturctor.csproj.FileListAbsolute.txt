@@ -1,0 +1,7 @@
+C:\Users\vagunda\source\repos\subclassBase_classConsturctor\subclassBase_classConsturctor\obj\Debug\subclassBase_classConsturctor.csprojAssemblyReference.cache
+C:\Users\vagunda\source\repos\subclassBase_classConsturctor\subclassBase_classConsturctor\obj\Debug\subclassBase_classConsturctor.csproj.CoreCompileInputs.cache
+C:\Users\vagunda\source\repos\subclassBase_classConsturctor\subclassBase_classConsturctor\bin\Debug\subclassBase_classConsturctor.exe.config
+C:\Users\vagunda\source\repos\subclassBase_classConsturctor\subclassBase_classConsturctor\bin\Debug\subclassBase_classConsturctor.exe
+C:\Users\vagunda\source\repos\subclassBase_classConsturctor\subclassBase_classConsturctor\bin\Debug\subclassBase_classConsturctor.pdb
+C:\Users\vagunda\source\repos\subclassBase_classConsturctor\subclassBase_classConsturctor\obj\Debug\subclassBase_classConsturctor.exe
+C:\Users\vagunda\source\repos\subclassBase_classConsturctor\subclassBase_classConsturctor\obj\Debug\subclassBase_classConsturctor.pdb

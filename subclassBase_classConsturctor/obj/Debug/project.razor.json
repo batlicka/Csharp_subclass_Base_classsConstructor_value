@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\vagunda\\source\\repos\\subclassBase_classConsturctor\\subclassBase_classConsturctor\\subclassBase_classConsturctor.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
